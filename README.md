@@ -38,6 +38,7 @@ This Python script performs Optical Character Recognition (OCR) on an image usin
 ## Example Output
 
 The output will be an image displayed using Matplotlib, with recognized text highlighted by bounding boxes. See the Result and Demo Folder for that.
+![Results](OCR/Results/Results_Image/tt1_res.png)
 
 ## License
 
