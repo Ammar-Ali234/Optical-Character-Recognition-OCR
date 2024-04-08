@@ -43,3 +43,7 @@ The output will be an image displayed using Matplotlib, with recognized text hig
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
+
+
